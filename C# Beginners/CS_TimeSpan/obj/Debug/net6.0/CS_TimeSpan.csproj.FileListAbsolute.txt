@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\bin\Debug\net6.0\CS_TimeSpan.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\bin\Debug\net6.0\CS_TimeSpan.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\bin\Debug\net6.0\CS_TimeSpan.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\bin\Debug\net6.0\CS_TimeSpan.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\bin\Debug\net6.0\CS_TimeSpan.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\refint\CS_TimeSpan.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\CS_TimeSpan.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TimeSpan\obj\Debug\net6.0\ref\CS_TimeSpan.dll

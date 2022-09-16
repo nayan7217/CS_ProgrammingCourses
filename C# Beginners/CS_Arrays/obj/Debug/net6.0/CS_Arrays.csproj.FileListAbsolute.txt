@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\bin\Debug\net6.0\CS_Arrays.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\bin\Debug\net6.0\CS_Arrays.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\bin\Debug\net6.0\CS_Arrays.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\bin\Debug\net6.0\CS_Arrays.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\bin\Debug\net6.0\CS_Arrays.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\refint\CS_Arrays.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\CS_Arrays.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Arrays\obj\Debug\net6.0\ref\CS_Arrays.dll

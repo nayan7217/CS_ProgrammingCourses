@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\bin\Debug\net6.0\CS_StringWordCount.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\bin\Debug\net6.0\CS_StringWordCount.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\bin\Debug\net6.0\CS_StringWordCount.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\bin\Debug\net6.0\CS_StringWordCount.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\bin\Debug\net6.0\CS_StringWordCount.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\refint\CS_StringWordCount.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\CS_StringWordCount.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_StringWordCount\obj\Debug\net6.0\ref\CS_StringWordCount.dll

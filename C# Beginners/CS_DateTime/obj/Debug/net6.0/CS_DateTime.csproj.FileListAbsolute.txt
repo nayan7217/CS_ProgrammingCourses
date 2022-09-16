@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\bin\Debug\net6.0\CS_DateTime.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\bin\Debug\net6.0\CS_DateTime.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\bin\Debug\net6.0\CS_DateTime.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\bin\Debug\net6.0\CS_DateTime.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\bin\Debug\net6.0\CS_DateTime.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\refint\CS_DateTime.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\CS_DateTime.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_DateTime\obj\Debug\net6.0\ref\CS_DateTime.dll

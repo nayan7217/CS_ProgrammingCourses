@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\Addition\bin\Debug\net6.0\Sample.exe
+C:\Coditas\CSProgramming\CSProgramming\Addition\bin\Debug\net6.0\Sample.deps.json
+C:\Coditas\CSProgramming\CSProgramming\Addition\bin\Debug\net6.0\Sample.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\Addition\bin\Debug\net6.0\Sample.dll
+C:\Coditas\CSProgramming\CSProgramming\Addition\bin\Debug\net6.0\Sample.pdb
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.dll
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\refint\Sample.dll
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.pdb
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\Sample.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\Addition\obj\Debug\net6.0\ref\Sample.dll

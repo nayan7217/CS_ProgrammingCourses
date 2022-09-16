@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\bin\Debug\net6.0\CS_ForLoops.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\bin\Debug\net6.0\CS_ForLoops.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\bin\Debug\net6.0\CS_ForLoops.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\bin\Debug\net6.0\CS_ForLoops.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\bin\Debug\net6.0\CS_ForLoops.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\refint\CS_ForLoops.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\CS_ForLoops.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ForLoops\obj\Debug\net6.0\ref\CS_ForLoops.dll

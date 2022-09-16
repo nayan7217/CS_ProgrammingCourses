@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\bin\Debug\net6.0\CS_Variable And Constant.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\bin\Debug\net6.0\CS_Variable And Constant.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\bin\Debug\net6.0\CS_Variable And Constant.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\bin\Debug\net6.0\CS_Variable And Constant.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\bin\Debug\net6.0\CS_Variable And Constant.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\refint\CS_Variable And Constant.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\CS_Variable And Constant.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Variable And Constant\obj\Debug\net6.0\ref\CS_Variable And Constant.dll

@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\bin\Debug\net6.0\CS_ReferenceTypeValueType.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\bin\Debug\net6.0\CS_ReferenceTypeValueType.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\bin\Debug\net6.0\CS_ReferenceTypeValueType.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\bin\Debug\net6.0\CS_ReferenceTypeValueType.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\bin\Debug\net6.0\CS_ReferenceTypeValueType.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\refint\CS_ReferenceTypeValueType.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\CS_ReferenceTypeValueType.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ReferenceTypeValueType\obj\Debug\net6.0\ref\CS_ReferenceTypeValueType.dll

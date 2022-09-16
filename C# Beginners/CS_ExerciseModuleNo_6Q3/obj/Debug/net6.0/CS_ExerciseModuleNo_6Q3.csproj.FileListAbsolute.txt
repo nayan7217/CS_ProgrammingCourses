@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\bin\Debug\net6.0\CS_ExerciseModuleNo_6Q3.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\bin\Debug\net6.0\CS_ExerciseModuleNo_6Q3.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\bin\Debug\net6.0\CS_ExerciseModuleNo_6Q3.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\bin\Debug\net6.0\CS_ExerciseModuleNo_6Q3.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\bin\Debug\net6.0\CS_ExerciseModuleNo_6Q3.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\refint\CS_ExerciseModuleNo_6Q3.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\CS_ExerciseModuleNo_6Q3.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseModuleNo_6Q3\obj\Debug\net6.0\ref\CS_ExerciseModuleNo_6Q3.dll

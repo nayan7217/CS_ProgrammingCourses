@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\bin\Debug\net6.0\CS_Overflowing.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\bin\Debug\net6.0\CS_Overflowing.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\bin\Debug\net6.0\CS_Overflowing.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\bin\Debug\net6.0\CS_Overflowing.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\bin\Debug\net6.0\CS_Overflowing.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\refint\CS_Overflowing.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\CS_Overflowing.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Overflowing\obj\Debug\net6.0\ref\CS_Overflowing.dll

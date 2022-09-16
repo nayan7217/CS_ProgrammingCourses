@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\bin\Debug\net6.0\CS_Debugging.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\bin\Debug\net6.0\CS_Debugging.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\bin\Debug\net6.0\CS_Debugging.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\bin\Debug\net6.0\CS_Debugging.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\bin\Debug\net6.0\CS_Debugging.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\refint\CS_Debugging.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\CS_Debugging.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Debugging\obj\Debug\net6.0\ref\CS_Debugging.dll

@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\bin\Debug\net6.0\CS_Path.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\bin\Debug\net6.0\CS_Path.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\bin\Debug\net6.0\CS_Path.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\bin\Debug\net6.0\CS_Path.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\bin\Debug\net6.0\CS_Path.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\refint\CS_Path.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\CS_Path.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Path\obj\Debug\net6.0\ref\CS_Path.dll

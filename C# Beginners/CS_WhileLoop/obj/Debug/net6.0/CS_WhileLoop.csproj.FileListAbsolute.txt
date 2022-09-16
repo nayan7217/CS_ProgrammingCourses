@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\bin\Debug\net6.0\CS_WhileLoop.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\bin\Debug\net6.0\CS_WhileLoop.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\bin\Debug\net6.0\CS_WhileLoop.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\bin\Debug\net6.0\CS_WhileLoop.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\bin\Debug\net6.0\CS_WhileLoop.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\refint\CS_WhileLoop.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\CS_WhileLoop.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_WhileLoop\obj\Debug\net6.0\ref\CS_WhileLoop.dll

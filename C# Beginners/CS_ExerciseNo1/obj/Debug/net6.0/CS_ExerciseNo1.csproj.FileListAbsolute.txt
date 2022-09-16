@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\bin\Debug\net6.0\CS_ExerciseNo1.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\bin\Debug\net6.0\CS_ExerciseNo1.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\bin\Debug\net6.0\CS_ExerciseNo1.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\bin\Debug\net6.0\CS_ExerciseNo1.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\bin\Debug\net6.0\CS_ExerciseNo1.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\refint\CS_ExerciseNo1.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\CS_ExerciseNo1.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_ExerciseNo1\obj\Debug\net6.0\ref\CS_ExerciseNo1.dll

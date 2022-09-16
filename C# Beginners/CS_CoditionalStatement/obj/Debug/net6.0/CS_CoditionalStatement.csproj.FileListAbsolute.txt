@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\bin\Debug\net6.0\CS_CoditionalStatement.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\bin\Debug\net6.0\CS_CoditionalStatement.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\bin\Debug\net6.0\CS_CoditionalStatement.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\bin\Debug\net6.0\CS_CoditionalStatement.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\bin\Debug\net6.0\CS_CoditionalStatement.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\refint\CS_CoditionalStatement.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\CS_CoditionalStatement.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_CoditionalStatement\obj\Debug\net6.0\ref\CS_CoditionalStatement.dll

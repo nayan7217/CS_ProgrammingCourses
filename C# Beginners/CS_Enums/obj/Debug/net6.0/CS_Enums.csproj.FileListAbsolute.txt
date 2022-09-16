@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\bin\Debug\net6.0\CS_Enums.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\bin\Debug\net6.0\CS_Enums.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\bin\Debug\net6.0\CS_Enums.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\bin\Debug\net6.0\CS_Enums.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\bin\Debug\net6.0\CS_Enums.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\refint\CS_Enums.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\CS_Enums.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Enums\obj\Debug\net6.0\ref\CS_Enums.dll

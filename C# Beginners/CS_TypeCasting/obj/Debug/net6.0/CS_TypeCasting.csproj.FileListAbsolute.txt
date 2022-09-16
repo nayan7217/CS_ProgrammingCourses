@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\bin\Debug\net6.0\CS_TypeCasting.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\bin\Debug\net6.0\CS_TypeCasting.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\bin\Debug\net6.0\CS_TypeCasting.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\bin\Debug\net6.0\CS_TypeCasting.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\bin\Debug\net6.0\CS_TypeCasting.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\refint\CS_TypeCasting.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\CS_TypeCasting.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_TypeCasting\obj\Debug\net6.0\ref\CS_TypeCasting.dll

@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\bin\Debug\net6.0\CS_Operators.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\bin\Debug\net6.0\CS_Operators.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\bin\Debug\net6.0\CS_Operators.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\bin\Debug\net6.0\CS_Operators.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\bin\Debug\net6.0\CS_Operators.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\refint\CS_Operators.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\CS_Operators.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_Operators\obj\Debug\net6.0\ref\CS_Operators.dll

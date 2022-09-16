@@ -1,0 +1,15 @@
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\bin\Debug\net6.0\CS_IfElse.exe
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\bin\Debug\net6.0\CS_IfElse.deps.json
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\bin\Debug\net6.0\CS_IfElse.runtimeconfig.json
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\bin\Debug\net6.0\CS_IfElse.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\bin\Debug\net6.0\CS_IfElse.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.csproj.AssemblyReference.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.AssemblyInfoInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.AssemblyInfo.cs
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.csproj.CoreCompileInputs.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\refint\CS_IfElse.dll
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.pdb
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\CS_IfElse.genruntimeconfig.cache
+C:\Coditas\CSProgramming\CSProgramming\CS_IfElse\obj\Debug\net6.0\ref\CS_IfElse.dll
