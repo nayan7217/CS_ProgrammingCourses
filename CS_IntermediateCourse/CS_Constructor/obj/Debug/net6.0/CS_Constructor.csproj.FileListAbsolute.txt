@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\bin\Debug\net6.0\CS_Constructor.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\bin\Debug\net6.0\CS_Constructor.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\bin\Debug\net6.0\CS_Constructor.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\bin\Debug\net6.0\CS_Constructor.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\bin\Debug\net6.0\CS_Constructor.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\refint\CS_Constructor.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\CS_Constructor.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Constructor\obj\Debug\net6.0\ref\CS_Constructor.dll
