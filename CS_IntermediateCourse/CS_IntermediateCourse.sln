@@ -5,19 +5,21 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleProject", "SampleProject\SampleProject.csproj", "{713CBD81-B4FB-4D49-8AB4-9E02BE07FCDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Constructor", "CS_Constructor\CS_Constructor.csproj", "{CFBFDBF1-9B5A-4954-9753-FCEB433D7EFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Constructor", "CS_Constructor\CS_Constructor.csproj", "{CFBFDBF1-9B5A-4954-9753-FCEB433D7EFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Methods", "CS_Methods\CS_Methods.csproj", "{51599253-A90F-4C3F-8DC7-35168A7EB324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Methods", "CS_Methods\CS_Methods.csproj", "{51599253-A90F-4C3F-8DC7-35168A7EB324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Fields", "CS_Fields\CS_Fields.csproj", "{8566E284-6E53-4B63-A887-1DF8D8F37373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Fields", "CS_Fields\CS_Fields.csproj", "{8566E284-6E53-4B63-A887-1DF8D8F37373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Indexers", "CS_Indexers\CS_Indexers.csproj", "{162D7B88-95A4-40E9-8E08-68E88CEEF2A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Indexers", "CS_Indexers\CS_Indexers.csproj", "{162D7B88-95A4-40E9-8E08-68E88CEEF2A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Inheritence", "CS_Inheritence\CS_Inheritence.csproj", "{49614373-6CDD-4641-934F-14777A8C5322}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Inheritence", "CS_Inheritence\CS_Inheritence.csproj", "{49614373-6CDD-4641-934F-14777A8C5322}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Module2_Exercise_Q2", "CS_Module2_Exercise_Q2\CS_Module2_Exercise_Q2.csproj", "{4A9B4E97-57EF-4B5E-A15C-2DD90DD3E827}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Module2_Exercise_Q2", "CS_Module2_Exercise_Q2\CS_Module2_Exercise_Q2.csproj", "{4A9B4E97-57EF-4B5E-A15C-2DD90DD3E827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Module2_Exercise_Q1", "CS_Module2_Exercise_Q1\CS_Module2_Exercise_Q1.csproj", "{14313846-FEE4-406D-B652-61E8FBC39C29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Module2_Exercise_Q1", "CS_Module2_Exercise_Q1\CS_Module2_Exercise_Q1.csproj", "{14313846-FEE4-406D-B652-61E8FBC39C29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Module4_Exercise_Q1", "CS_Module4_Exercise_Q1\CS_Module4_Exercise_Q1.csproj", "{64FB62CA-79FE-4AAB-B1D3-C1CB02F96F98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{14313846-FEE4-406D-B652-61E8FBC39C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14313846-FEE4-406D-B652-61E8FBC39C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14313846-FEE4-406D-B652-61E8FBC39C29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FB62CA-79FE-4AAB-B1D3-C1CB02F96F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FB62CA-79FE-4AAB-B1D3-C1CB02F96F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FB62CA-79FE-4AAB-B1D3-C1CB02F96F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FB62CA-79FE-4AAB-B1D3-C1CB02F96F98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

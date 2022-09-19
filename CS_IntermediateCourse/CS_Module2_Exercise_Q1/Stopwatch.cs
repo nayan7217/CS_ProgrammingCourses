@@ -14,14 +14,15 @@ namespace CS_Module2_Exercise_Q1
 
         public void Start()
         {
-            this.timeStart = DateTime.Now;
+            timeStart = DateTime.Now;
+            Console.WriteLine($"Timer is Started at {timeStart}");
+            return;
             
         }
         public void End()
         {
-            this.timeEnd = DateTime.Now;
-            string str = $"Time Span : {timeEnd.Hour - timeStart.Hour}:{timeEnd.Second - timeEnd.Second}";
-            Console.WriteLine(str);
+            timeEnd = DateTime.Now;
+            Console.WriteLine($"Timestamp = {timeStart-timeEnd}");
             return;
         }
     

@@ -18,12 +18,21 @@ while(true)
             }
             else
             {
-                Console.WriteLine("StopWatch Already Started");
+                Console.WriteLine("Opps! StopWatch Already Started");
             }
             break;
         case 2:
-            stopwatch.End();
-            return;
+            if(isStarted != false)
+            {
+                stopwatch.End();
+                isStarted = false;
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Opps ! The Stop Watch is not Started yet");
+            }
+            break;
 
 
     }
