@@ -22,7 +22,7 @@ namespace CS_Module2_Exercise_Q1
         public void End()
         {
             timeEnd = DateTime.Now;
-            Console.WriteLine($"Timestamp = {timeStart-timeEnd}");
+            Console.WriteLine($"Timestamp = {timeEnd - timeStart}");
             return;
         }
     

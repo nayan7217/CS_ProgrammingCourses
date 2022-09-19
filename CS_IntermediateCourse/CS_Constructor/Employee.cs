@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using csConstructor;
 
-namespace csConstructor
+namespace CS_Constructor
 {
     public class Employee
     {
@@ -19,20 +18,20 @@ namespace csConstructor
         // object reference is not set to an instance of the object
         public Employee()
         {
-            this.EmpId = 1;
-            this.EmpName = "Unknown";
+            EmpId = 1;
+            EmpName = "Unknown";
             Order = new List<Orders>();
             // Here I am declaring the Address Reference to the List of the class order
         }
-        public Employee(int empId):this()
-            // here i am calling the parameterless ctor to instantiate the list object
+        public Employee(int empId) : this()
+        // here i am calling the parameterless ctor to instantiate the list object
         {
-            this.EmpId = empId;
+            EmpId = empId;
         }
-        public Employee(int empId , string empName):this()
+        public Employee(int empId, string empName) : this()
         {
-            this.EmpId= empId;
-            this.EmpName = empName;
+            EmpId = empId;
+            EmpName = empName;
         }
 
     }

@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\bin\Debug\net6.0\CS_MethodOverriding.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\bin\Debug\net6.0\CS_MethodOverriding.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\bin\Debug\net6.0\CS_MethodOverriding.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\bin\Debug\net6.0\CS_MethodOverriding.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\bin\Debug\net6.0\CS_MethodOverriding.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\refint\CS_MethodOverriding.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\CS_MethodOverriding.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_MethodOverriding\obj\Debug\net6.0\ref\CS_MethodOverriding.dll
