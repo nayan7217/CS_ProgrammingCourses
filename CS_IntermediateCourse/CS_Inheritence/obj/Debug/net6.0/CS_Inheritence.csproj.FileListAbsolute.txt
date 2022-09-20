@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\bin\Debug\net6.0\CS_Inheritence.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\bin\Debug\net6.0\CS_Inheritence.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\bin\Debug\net6.0\CS_Inheritence.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\bin\Debug\net6.0\CS_Inheritence.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\bin\Debug\net6.0\CS_Inheritence.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\refint\CS_Inheritence.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\CS_Inheritence.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Inheritence\obj\Debug\net6.0\ref\CS_Inheritence.dll

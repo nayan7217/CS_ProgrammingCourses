@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\bin\Debug\net6.0\CS_Module6_Exercise_Q1.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\bin\Debug\net6.0\CS_Module6_Exercise_Q1.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\bin\Debug\net6.0\CS_Module6_Exercise_Q1.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\bin\Debug\net6.0\CS_Module6_Exercise_Q1.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\bin\Debug\net6.0\CS_Module6_Exercise_Q1.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\refint\CS_Module6_Exercise_Q1.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\CS_Module6_Exercise_Q1.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module6_Exercise_Q1\obj\Debug\net6.0\ref\CS_Module6_Exercise_Q1.dll

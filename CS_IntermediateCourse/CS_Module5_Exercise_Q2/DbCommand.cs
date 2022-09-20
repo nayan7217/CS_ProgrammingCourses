@@ -7,19 +7,33 @@ using CS_Module5_Exercise_Q2;
 
 namespace CS_Module5_Exercise_Q2
 {
-    public class DbCommand
+    public abstract class DbCommand
     {
         public bool isConnected;
 
+        public string sqlCommand;
 
-        public DbCommand(SqlConnection obj)
+
+        public DbCommand(SqlConnection obj, string sqlCommand)
         {
             isConnected = obj.isConnected;
+            this.sqlCommand = sqlCommand;
         }
 
-        public void Execute(SqlCommand cmd)
+        public abstract void Execute();
+    }
+    public class Sql : DbCommand
+    {
+        public override void Execute()
         {
-
+            throw new NotImplementedException();
+        }
+    }
+    public class oracle : DbCommand
+    {
+        public override void Execute()
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_ConstructorInheritence\obj\Debug\net6.0\CS_ConstructorInheritence.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_ConstructorInheritence\obj\Debug\net6.0\CS_ConstructorInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_ConstructorInheritence\obj\Debug\net6.0\CS_ConstructorInheritence.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_ConstructorInheritence\obj\Debug\net6.0\CS_ConstructorInheritence.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_ConstructorInheritence\obj\Debug\net6.0\CS_ConstructorInheritence.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module5_Exercise_Q2\obj\Debug\net6.0\CS_Module5_Exercise_Q2.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module5_Exercise_Q2\obj\Debug\net6.0\CS_Module5_Exercise_Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module5_Exercise_Q2\obj\Debug\net6.0\CS_Module5_Exercise_Q2.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module5_Exercise_Q2\obj\Debug\net6.0\CS_Module5_Exercise_Q2.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Module5_Exercise_Q2\obj\Debug\net6.0\CS_Module5_Exercise_Q2.csproj.CoreCompileInputs.cache

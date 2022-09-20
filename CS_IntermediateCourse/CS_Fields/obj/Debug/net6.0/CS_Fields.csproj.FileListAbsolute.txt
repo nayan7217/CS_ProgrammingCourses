@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\bin\Debug\net6.0\CS_Fields.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\bin\Debug\net6.0\CS_Fields.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\bin\Debug\net6.0\CS_Fields.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\bin\Debug\net6.0\CS_Fields.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\bin\Debug\net6.0\CS_Fields.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\refint\CS_Fields.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\CS_Fields.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Fields\obj\Debug\net6.0\ref\CS_Fields.dll

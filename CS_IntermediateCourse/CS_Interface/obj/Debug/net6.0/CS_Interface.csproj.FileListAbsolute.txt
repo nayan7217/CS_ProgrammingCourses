@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\bin\Debug\net6.0\CS_Interface.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\bin\Debug\net6.0\CS_Interface.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\bin\Debug\net6.0\CS_Interface.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\bin\Debug\net6.0\CS_Interface.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\bin\Debug\net6.0\CS_Interface.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\refint\CS_Interface.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\CS_Interface.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Interface\obj\Debug\net6.0\ref\CS_Interface.dll

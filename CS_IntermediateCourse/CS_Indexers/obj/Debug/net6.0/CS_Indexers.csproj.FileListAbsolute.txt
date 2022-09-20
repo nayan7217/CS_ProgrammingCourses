@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\bin\Debug\net6.0\CS_Indexers.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\bin\Debug\net6.0\CS_Indexers.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\bin\Debug\net6.0\CS_Indexers.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\bin\Debug\net6.0\CS_Indexers.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\bin\Debug\net6.0\CS_Indexers.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\refint\CS_Indexers.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\CS_Indexers.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Indexers\obj\Debug\net6.0\ref\CS_Indexers.dll

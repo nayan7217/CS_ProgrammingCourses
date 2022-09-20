@@ -19,15 +19,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Module2_Exercise_Q2", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Module2_Exercise_Q1", "CS_Module2_Exercise_Q1\CS_Module2_Exercise_Q1.csproj", "{14313846-FEE4-406D-B652-61E8FBC39C29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Module4_Exercise_Q1", "CS_Module4_Exercise_Q1\CS_Module4_Exercise_Q1.csproj", "{64FB62CA-79FE-4AAB-B1D3-C1CB02F96F98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Module4_Exercise_Q1", "CS_Module4_Exercise_Q1\CS_Module4_Exercise_Q1.csproj", "{64FB62CA-79FE-4AAB-B1D3-C1CB02F96F98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_ConstructorInheritence", "CS_ConstructorInheritence\CS_ConstructorInheritence.csproj", "{23356042-466D-420F-A200-88C54F33913E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_ConstructorInheritence", "CS_ConstructorInheritence\CS_ConstructorInheritence.csproj", "{23356042-466D-420F-A200-88C54F33913E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_MethodOverriding", "CS_MethodOverriding\CS_MethodOverriding.csproj", "{8FE87557-8AD5-4E88-8F8C-4D0B8ECE3A60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_MethodOverriding", "CS_MethodOverriding\CS_MethodOverriding.csproj", "{8FE87557-8AD5-4E88-8F8C-4D0B8ECE3A60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Module5_Exercise_Q1", "CS_Module5_Exercise_Q1\CS_Module5_Exercise_Q1.csproj", "{A9B2C77E-2982-48C1-BF0E-EB113476B4F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Module5_Exercise_Q1", "CS_Module5_Exercise_Q1\CS_Module5_Exercise_Q1.csproj", "{A9B2C77E-2982-48C1-BF0E-EB113476B4F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Module5_Exercise_Q2", "CS_Module5_Exercise_Q2\CS_Module5_Exercise_Q2.csproj", "{F97DB3D9-173A-4A1A-8CC7-40EE6DB818EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS_Module5_Exercise_Q2", "CS_Module5_Exercise_Q2\CS_Module5_Exercise_Q2.csproj", "{F97DB3D9-173A-4A1A-8CC7-40EE6DB818EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Interface", "CS_Interface\CS_Interface.csproj", "{34182B9B-B8FA-4C80-AC20-733BBE3835D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Interface.UnitTest", "CS_Interface.UnitTest\CS_Interface.UnitTest.csproj", "{01E5D947-23ED-4695-8A1F-EF7B47CE0661}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS_Module6_Exercise_Q1", "CS_Module6_Exercise_Q1\CS_Module6_Exercise_Q1.csproj", "{56566BC6-8FA2-486E-B1A2-6F68238181A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +93,18 @@ Global
 		{F97DB3D9-173A-4A1A-8CC7-40EE6DB818EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F97DB3D9-173A-4A1A-8CC7-40EE6DB818EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F97DB3D9-173A-4A1A-8CC7-40EE6DB818EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34182B9B-B8FA-4C80-AC20-733BBE3835D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34182B9B-B8FA-4C80-AC20-733BBE3835D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34182B9B-B8FA-4C80-AC20-733BBE3835D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34182B9B-B8FA-4C80-AC20-733BBE3835D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E5D947-23ED-4695-8A1F-EF7B47CE0661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E5D947-23ED-4695-8A1F-EF7B47CE0661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E5D947-23ED-4695-8A1F-EF7B47CE0661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E5D947-23ED-4695-8A1F-EF7B47CE0661}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56566BC6-8FA2-486E-B1A2-6F68238181A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56566BC6-8FA2-486E-B1A2-6F68238181A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56566BC6-8FA2-486E-B1A2-6F68238181A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56566BC6-8FA2-486E-B1A2-6F68238181A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
