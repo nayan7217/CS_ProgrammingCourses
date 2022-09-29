@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\bin\Debug\net6.0\CS_Delegates.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\bin\Debug\net6.0\CS_Delegates.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\bin\Debug\net6.0\CS_Delegates.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\bin\Debug\net6.0\CS_Delegates.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\bin\Debug\net6.0\CS_Delegates.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\refint\CS_Delegates.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\CS_Delegates.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Delegates\obj\Debug\net6.0\ref\CS_Delegates.dll

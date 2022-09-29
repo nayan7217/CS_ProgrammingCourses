@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\bin\Debug\net6.0\CS_Lambda Expression.exe
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\bin\Debug\net6.0\CS_Lambda Expression.deps.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\bin\Debug\net6.0\CS_Lambda Expression.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\bin\Debug\net6.0\CS_Lambda Expression.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\bin\Debug\net6.0\CS_Lambda Expression.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\refint\CS_Lambda Expression.dll
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.pdb
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\CS_Lambda Expression.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_IntermediateCourse\CS_Lambda Expression\obj\Debug\net6.0\ref\CS_Lambda Expression.dll

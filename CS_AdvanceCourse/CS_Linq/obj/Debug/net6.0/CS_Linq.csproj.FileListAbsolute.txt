@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\bin\Debug\net6.0\CS_Linq.exe
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\bin\Debug\net6.0\CS_Linq.deps.json
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\bin\Debug\net6.0\CS_Linq.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\bin\Debug\net6.0\CS_Linq.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\bin\Debug\net6.0\CS_Linq.pdb
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\refint\CS_Linq.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.pdb
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\CS_Linq.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Linq\obj\Debug\net6.0\ref\CS_Linq.dll
