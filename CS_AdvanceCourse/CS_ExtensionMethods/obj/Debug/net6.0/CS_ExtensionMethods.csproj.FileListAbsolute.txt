@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\bin\Debug\net6.0\CS_ExtensionMethods.exe
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\bin\Debug\net6.0\CS_ExtensionMethods.deps.json
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\bin\Debug\net6.0\CS_ExtensionMethods.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\bin\Debug\net6.0\CS_ExtensionMethods.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\bin\Debug\net6.0\CS_ExtensionMethods.pdb
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\refint\CS_ExtensionMethods.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.pdb
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\CS_ExtensionMethods.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_ExtensionMethods\obj\Debug\net6.0\ref\CS_ExtensionMethods.dll
