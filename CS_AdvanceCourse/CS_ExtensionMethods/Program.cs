@@ -31,7 +31,7 @@
 
             Console.WriteLine($"My surname is {surname}");
 
-            // int is  the sealed class and it doen't have the method for adding another number 
+            // int idoen't have the method for adding another number 
             int digit = 43453;
 
             var sumOfDigit = digit.Add(5);
