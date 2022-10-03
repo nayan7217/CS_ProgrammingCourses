@@ -1,0 +1,15 @@
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\bin\Debug\net6.0\CS_Events.exe
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\bin\Debug\net6.0\CS_Events.deps.json
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\bin\Debug\net6.0\CS_Events.runtimeconfig.json
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\bin\Debug\net6.0\CS_Events.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\bin\Debug\net6.0\CS_Events.pdb
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.csproj.AssemblyReference.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.AssemblyInfoInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.AssemblyInfo.cs
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.csproj.CoreCompileInputs.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\refint\CS_Events.dll
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.pdb
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\CS_Events.genruntimeconfig.cache
+C:\Training\CS_ProgrammingCourses\CS_AdvanceCourse\CS_Events\obj\Debug\net6.0\ref\CS_Events.dll
